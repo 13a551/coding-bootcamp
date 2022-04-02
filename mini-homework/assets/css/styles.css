@@ -8,3 +8,12 @@ nav {
   background-color: yellow;
   text-align: center;
 }
+
+* body {
+  font: 15px Arial, sans-serif;
+}
+
+#about-us {
+  background-color: red;
+  text-align: center;
+}
